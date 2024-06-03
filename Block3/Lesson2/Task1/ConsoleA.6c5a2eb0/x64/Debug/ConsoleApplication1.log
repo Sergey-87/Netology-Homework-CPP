@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\Юлия\Desktop\Нетология\ConsoleApplication1\ConsoleApplication1.cpp(67,1): warning C4715: Calculator::set_num2: значение возвращается не при всех путях выполнения
+C:\Users\Юлия\Desktop\Нетология\ConsoleApplication1\ConsoleApplication1.cpp(49,1): warning C4715: Calculator::set_num1: значение возвращается не при всех путях выполнения
+  ConsoleApplication1.vcxproj -> C:\Users\Юлия\Desktop\Нетология\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
