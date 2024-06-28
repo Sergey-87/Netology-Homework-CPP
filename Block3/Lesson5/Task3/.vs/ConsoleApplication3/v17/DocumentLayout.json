@@ -1,0 +1,325 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u044B\u0435 \u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u041D\u0435\u0442\u043E\u043B\u043E\u0433\u0438\u044F\\Netology-Homework-CPP\\Block3\\Lesson5\\Task3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10451CAC-878E-4A3C-9FA1-8A7D7EF3FAA6}|ConsoleApplication3.vcxproj|G:\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u044B\u0435 \u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u041D\u0435\u0442\u043E\u043B\u043E\u0433\u0438\u044F\\Netology-Homework-CPP\\Block3\\Lesson5\\Task3\\ConsoleApplication3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{10451CAC-878E-4A3C-9FA1-8A7D7EF3FAA6}|ConsoleApplication3.vcxproj|solutionrelative:ConsoleApplication3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10451CAC-878E-4A3C-9FA1-8A7D7EF3FAA6}|ConsoleApplication3.vcxproj|G:\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u044B\u0435 \u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u041D\u0435\u0442\u043E\u043B\u043E\u0433\u0438\u044F\\Netology-Homework-CPP\\Block3\\Lesson5\\Task3\\Rectangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{10451CAC-878E-4A3C-9FA1-8A7D7EF3FAA6}|ConsoleApplication3.vcxproj|solutionrelative:Rectangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10451CAC-878E-4A3C-9FA1-8A7D7EF3FAA6}|ConsoleApplication3.vcxproj|G:\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u044B\u0435 \u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u041D\u0435\u0442\u043E\u043B\u043E\u0433\u0438\u044F\\Netology-Homework-CPP\\Block3\\Lesson5\\Task3\\Chutyrehangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{10451CAC-878E-4A3C-9FA1-8A7D7EF3FAA6}|ConsoleApplication3.vcxproj|solutionrelative:Chutyrehangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10451CAC-878E-4A3C-9FA1-8A7D7EF3FAA6}|ConsoleApplication3.vcxproj|G:\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u044B\u0435 \u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u041D\u0435\u0442\u043E\u043B\u043E\u0433\u0438\u044F\\Netology-Homework-CPP\\Block3\\Lesson5\\Task3\\Triangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{10451CAC-878E-4A3C-9FA1-8A7D7EF3FAA6}|ConsoleApplication3.vcxproj|solutionrelative:Triangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10451CAC-878E-4A3C-9FA1-8A7D7EF3FAA6}|ConsoleApplication3.vcxproj|G:\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u044B\u0435 \u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u041D\u0435\u0442\u043E\u043B\u043E\u0433\u0438\u044F\\Netology-Homework-CPP\\Block3\\Lesson5\\Task3\\Rhombus.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{10451CAC-878E-4A3C-9FA1-8A7D7EF3FAA6}|ConsoleApplication3.vcxproj|solutionrelative:Rhombus.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10451CAC-878E-4A3C-9FA1-8A7D7EF3FAA6}|ConsoleApplication3.vcxproj|G:\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u044B\u0435 \u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u041D\u0435\u0442\u043E\u043B\u043E\u0433\u0438\u044F\\Netology-Homework-CPP\\Block3\\Lesson5\\Task3\\Rhombus.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{10451CAC-878E-4A3C-9FA1-8A7D7EF3FAA6}|ConsoleApplication3.vcxproj|solutionrelative:Rhombus.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10451CAC-878E-4A3C-9FA1-8A7D7EF3FAA6}|ConsoleApplication3.vcxproj|G:\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u044B\u0435 \u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u041D\u0435\u0442\u043E\u043B\u043E\u0433\u0438\u044F\\Netology-Homework-CPP\\Block3\\Lesson5\\Task3\\Square.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{10451CAC-878E-4A3C-9FA1-8A7D7EF3FAA6}|ConsoleApplication3.vcxproj|solutionrelative:Square.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10451CAC-878E-4A3C-9FA1-8A7D7EF3FAA6}|ConsoleApplication3.vcxproj|G:\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u044B\u0435 \u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u041D\u0435\u0442\u043E\u043B\u043E\u0433\u0438\u044F\\Netology-Homework-CPP\\Block3\\Lesson5\\Task3\\Square.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{10451CAC-878E-4A3C-9FA1-8A7D7EF3FAA6}|ConsoleApplication3.vcxproj|solutionrelative:Square.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10451CAC-878E-4A3C-9FA1-8A7D7EF3FAA6}|ConsoleApplication3.vcxproj|G:\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u044B\u0435 \u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u041D\u0435\u0442\u043E\u043B\u043E\u0433\u0438\u044F\\Netology-Homework-CPP\\Block3\\Lesson5\\Task3\\Rectangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{10451CAC-878E-4A3C-9FA1-8A7D7EF3FAA6}|ConsoleApplication3.vcxproj|solutionrelative:Rectangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10451CAC-878E-4A3C-9FA1-8A7D7EF3FAA6}|ConsoleApplication3.vcxproj|G:\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u044B\u0435 \u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u041D\u0435\u0442\u043E\u043B\u043E\u0433\u0438\u044F\\Netology-Homework-CPP\\Block3\\Lesson5\\Task3\\Parallelogram.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{10451CAC-878E-4A3C-9FA1-8A7D7EF3FAA6}|ConsoleApplication3.vcxproj|solutionrelative:Parallelogram.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10451CAC-878E-4A3C-9FA1-8A7D7EF3FAA6}|ConsoleApplication3.vcxproj|G:\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u044B\u0435 \u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u041D\u0435\u0442\u043E\u043B\u043E\u0433\u0438\u044F\\Netology-Homework-CPP\\Block3\\Lesson5\\Task3\\Parallelogram.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{10451CAC-878E-4A3C-9FA1-8A7D7EF3FAA6}|ConsoleApplication3.vcxproj|solutionrelative:Parallelogram.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10451CAC-878E-4A3C-9FA1-8A7D7EF3FAA6}|ConsoleApplication3.vcxproj|G:\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u044B\u0435 \u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u041D\u0435\u0442\u043E\u043B\u043E\u0433\u0438\u044F\\Netology-Homework-CPP\\Block3\\Lesson5\\Task3\\RightTriangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{10451CAC-878E-4A3C-9FA1-8A7D7EF3FAA6}|ConsoleApplication3.vcxproj|solutionrelative:RightTriangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10451CAC-878E-4A3C-9FA1-8A7D7EF3FAA6}|ConsoleApplication3.vcxproj|G:\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u044B\u0435 \u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u041D\u0435\u0442\u043E\u043B\u043E\u0433\u0438\u044F\\Netology-Homework-CPP\\Block3\\Lesson5\\Task3\\RightTriangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{10451CAC-878E-4A3C-9FA1-8A7D7EF3FAA6}|ConsoleApplication3.vcxproj|solutionrelative:RightTriangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10451CAC-878E-4A3C-9FA1-8A7D7EF3FAA6}|ConsoleApplication3.vcxproj|G:\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u044B\u0435 \u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u041D\u0435\u0442\u043E\u043B\u043E\u0433\u0438\u044F\\Netology-Homework-CPP\\Block3\\Lesson5\\Task3\\IsoscelesTriangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{10451CAC-878E-4A3C-9FA1-8A7D7EF3FAA6}|ConsoleApplication3.vcxproj|solutionrelative:IsoscelesTriangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10451CAC-878E-4A3C-9FA1-8A7D7EF3FAA6}|ConsoleApplication3.vcxproj|G:\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u044B\u0435 \u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u041D\u0435\u0442\u043E\u043B\u043E\u0433\u0438\u044F\\Netology-Homework-CPP\\Block3\\Lesson5\\Task3\\Chutyrehangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{10451CAC-878E-4A3C-9FA1-8A7D7EF3FAA6}|ConsoleApplication3.vcxproj|solutionrelative:Chutyrehangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10451CAC-878E-4A3C-9FA1-8A7D7EF3FAA6}|ConsoleApplication3.vcxproj|G:\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u044B\u0435 \u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u041D\u0435\u0442\u043E\u043B\u043E\u0433\u0438\u044F\\Netology-Homework-CPP\\Block3\\Lesson5\\Task3\\Triangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{10451CAC-878E-4A3C-9FA1-8A7D7EF3FAA6}|ConsoleApplication3.vcxproj|solutionrelative:Triangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10451CAC-878E-4A3C-9FA1-8A7D7EF3FAA6}|ConsoleApplication3.vcxproj|G:\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u044B\u0435 \u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u041D\u0435\u0442\u043E\u043B\u043E\u0433\u0438\u044F\\Netology-Homework-CPP\\Block3\\Lesson5\\Task3\\EquilateralTriangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{10451CAC-878E-4A3C-9FA1-8A7D7EF3FAA6}|ConsoleApplication3.vcxproj|solutionrelative:EquilateralTriangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10451CAC-878E-4A3C-9FA1-8A7D7EF3FAA6}|ConsoleApplication3.vcxproj|G:\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u044B\u0435 \u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u041D\u0435\u0442\u043E\u043B\u043E\u0433\u0438\u044F\\Netology-Homework-CPP\\Block3\\Lesson5\\Task3\\EquilateralTriangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{10451CAC-878E-4A3C-9FA1-8A7D7EF3FAA6}|ConsoleApplication3.vcxproj|solutionrelative:EquilateralTriangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10451CAC-878E-4A3C-9FA1-8A7D7EF3FAA6}|ConsoleApplication3.vcxproj|G:\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u044B\u0435 \u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u041D\u0435\u0442\u043E\u043B\u043E\u0433\u0438\u044F\\Netology-Homework-CPP\\Block3\\Lesson5\\Task3\\IsoscelesTriangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{10451CAC-878E-4A3C-9FA1-8A7D7EF3FAA6}|ConsoleApplication3.vcxproj|solutionrelative:IsoscelesTriangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Rhombus.h",
+              "DocumentMoniker": "G:\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u044B\u0435 \u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u041D\u0435\u0442\u043E\u043B\u043E\u0433\u0438\u044F\\Netology-Homework-CPP\\Block3\\Lesson5\\Task3\\Rhombus.h",
+              "RelativeDocumentMoniker": "Rhombus.h",
+              "ToolTip": "G:\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u044B\u0435 \u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u041D\u0435\u0442\u043E\u043B\u043E\u0433\u0438\u044F\\Netology-Homework-CPP\\Block3\\Lesson5\\Task3\\Rhombus.h",
+              "RelativeToolTip": "Rhombus.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-28T16:49:44.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Rhombus.cpp",
+              "DocumentMoniker": "G:\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u044B\u0435 \u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u041D\u0435\u0442\u043E\u043B\u043E\u0433\u0438\u044F\\Netology-Homework-CPP\\Block3\\Lesson5\\Task3\\Rhombus.cpp",
+              "RelativeDocumentMoniker": "Rhombus.cpp",
+              "ToolTip": "G:\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u044B\u0435 \u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u041D\u0435\u0442\u043E\u043B\u043E\u0433\u0438\u044F\\Netology-Homework-CPP\\Block3\\Lesson5\\Task3\\Rhombus.cpp",
+              "RelativeToolTip": "Rhombus.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-28T16:49:36.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Square.h",
+              "DocumentMoniker": "G:\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u044B\u0435 \u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u041D\u0435\u0442\u043E\u043B\u043E\u0433\u0438\u044F\\Netology-Homework-CPP\\Block3\\Lesson5\\Task3\\Square.h",
+              "RelativeDocumentMoniker": "Square.h",
+              "ToolTip": "G:\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u044B\u0435 \u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u041D\u0435\u0442\u043E\u043B\u043E\u0433\u0438\u044F\\Netology-Homework-CPP\\Block3\\Lesson5\\Task3\\Square.h",
+              "RelativeToolTip": "Square.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-28T16:47:34.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConsoleApplication3.cpp",
+              "DocumentMoniker": "G:\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u044B\u0435 \u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u041D\u0435\u0442\u043E\u043B\u043E\u0433\u0438\u044F\\Netology-Homework-CPP\\Block3\\Lesson5\\Task3\\ConsoleApplication3.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication3.cpp",
+              "ToolTip": "G:\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u044B\u0435 \u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u041D\u0435\u0442\u043E\u043B\u043E\u0433\u0438\u044F\\Netology-Homework-CPP\\Block3\\Lesson5\\Task3\\ConsoleApplication3.cpp",
+              "RelativeToolTip": "ConsoleApplication3.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-28T15:54:20.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Triangle.h",
+              "DocumentMoniker": "G:\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u044B\u0435 \u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u041D\u0435\u0442\u043E\u043B\u043E\u0433\u0438\u044F\\Netology-Homework-CPP\\Block3\\Lesson5\\Task3\\Triangle.h",
+              "RelativeDocumentMoniker": "Triangle.h",
+              "ToolTip": "G:\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u044B\u0435 \u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u041D\u0435\u0442\u043E\u043B\u043E\u0433\u0438\u044F\\Netology-Homework-CPP\\Block3\\Lesson5\\Task3\\Triangle.h",
+              "RelativeToolTip": "Triangle.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-28T15:56:15.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Chutyrehangle.h",
+              "DocumentMoniker": "G:\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u044B\u0435 \u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u041D\u0435\u0442\u043E\u043B\u043E\u0433\u0438\u044F\\Netology-Homework-CPP\\Block3\\Lesson5\\Task3\\Chutyrehangle.h",
+              "RelativeDocumentMoniker": "Chutyrehangle.h",
+              "ToolTip": "G:\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u044B\u0435 \u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u041D\u0435\u0442\u043E\u043B\u043E\u0433\u0438\u044F\\Netology-Homework-CPP\\Block3\\Lesson5\\Task3\\Chutyrehangle.h",
+              "RelativeToolTip": "Chutyrehangle.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-28T16:00:47.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Rectangle.h",
+              "DocumentMoniker": "G:\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u044B\u0435 \u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u041D\u0435\u0442\u043E\u043B\u043E\u0433\u0438\u044F\\Netology-Homework-CPP\\Block3\\Lesson5\\Task3\\Rectangle.h",
+              "RelativeDocumentMoniker": "Rectangle.h",
+              "ToolTip": "G:\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u044B\u0435 \u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u041D\u0435\u0442\u043E\u043B\u043E\u0433\u0438\u044F\\Netology-Homework-CPP\\Block3\\Lesson5\\Task3\\Rectangle.h",
+              "RelativeToolTip": "Rectangle.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-28T16:45:21.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Square.cpp",
+              "DocumentMoniker": "G:\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u044B\u0435 \u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u041D\u0435\u0442\u043E\u043B\u043E\u0433\u0438\u044F\\Netology-Homework-CPP\\Block3\\Lesson5\\Task3\\Square.cpp",
+              "RelativeDocumentMoniker": "Square.cpp",
+              "ToolTip": "G:\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u044B\u0435 \u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u041D\u0435\u0442\u043E\u043B\u043E\u0433\u0438\u044F\\Netology-Homework-CPP\\Block3\\Lesson5\\Task3\\Square.cpp",
+              "RelativeToolTip": "Square.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-28T16:47:24.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Rectangle.cpp",
+              "DocumentMoniker": "G:\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u044B\u0435 \u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u041D\u0435\u0442\u043E\u043B\u043E\u0433\u0438\u044F\\Netology-Homework-CPP\\Block3\\Lesson5\\Task3\\Rectangle.cpp",
+              "RelativeDocumentMoniker": "Rectangle.cpp",
+              "ToolTip": "G:\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u044B\u0435 \u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u041D\u0435\u0442\u043E\u043B\u043E\u0433\u0438\u044F\\Netology-Homework-CPP\\Block3\\Lesson5\\Task3\\Rectangle.cpp",
+              "RelativeToolTip": "Rectangle.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-28T16:45:11.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Parallelogram.cpp",
+              "DocumentMoniker": "G:\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u044B\u0435 \u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u041D\u0435\u0442\u043E\u043B\u043E\u0433\u0438\u044F\\Netology-Homework-CPP\\Block3\\Lesson5\\Task3\\Parallelogram.cpp",
+              "RelativeDocumentMoniker": "Parallelogram.cpp",
+              "ToolTip": "G:\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u044B\u0435 \u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u041D\u0435\u0442\u043E\u043B\u043E\u0433\u0438\u044F\\Netology-Homework-CPP\\Block3\\Lesson5\\Task3\\Parallelogram.cpp",
+              "RelativeToolTip": "Parallelogram.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-28T16:42:17.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Parallelogram.h",
+              "DocumentMoniker": "G:\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u044B\u0435 \u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u041D\u0435\u0442\u043E\u043B\u043E\u0433\u0438\u044F\\Netology-Homework-CPP\\Block3\\Lesson5\\Task3\\Parallelogram.h",
+              "RelativeDocumentMoniker": "Parallelogram.h",
+              "ToolTip": "G:\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u044B\u0435 \u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u041D\u0435\u0442\u043E\u043B\u043E\u0433\u0438\u044F\\Netology-Homework-CPP\\Block3\\Lesson5\\Task3\\Parallelogram.h",
+              "RelativeToolTip": "Parallelogram.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-28T16:42:27.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RightTriangle.cpp",
+              "DocumentMoniker": "G:\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u044B\u0435 \u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u041D\u0435\u0442\u043E\u043B\u043E\u0433\u0438\u044F\\Netology-Homework-CPP\\Block3\\Lesson5\\Task3\\RightTriangle.cpp",
+              "RelativeDocumentMoniker": "RightTriangle.cpp",
+              "ToolTip": "G:\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u044B\u0435 \u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u041D\u0435\u0442\u043E\u043B\u043E\u0433\u0438\u044F\\Netology-Homework-CPP\\Block3\\Lesson5\\Task3\\RightTriangle.cpp",
+              "RelativeToolTip": "RightTriangle.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-28T16:39:48.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RightTriangle.h",
+              "DocumentMoniker": "G:\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u044B\u0435 \u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u041D\u0435\u0442\u043E\u043B\u043E\u0433\u0438\u044F\\Netology-Homework-CPP\\Block3\\Lesson5\\Task3\\RightTriangle.h",
+              "RelativeDocumentMoniker": "RightTriangle.h",
+              "ToolTip": "G:\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u044B\u0435 \u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u041D\u0435\u0442\u043E\u043B\u043E\u0433\u0438\u044F\\Netology-Homework-CPP\\Block3\\Lesson5\\Task3\\RightTriangle.h",
+              "RelativeToolTip": "RightTriangle.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-28T16:39:58.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IsoscelesTriangle.cpp",
+              "DocumentMoniker": "G:\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u044B\u0435 \u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u041D\u0435\u0442\u043E\u043B\u043E\u0433\u0438\u044F\\Netology-Homework-CPP\\Block3\\Lesson5\\Task3\\IsoscelesTriangle.cpp",
+              "RelativeDocumentMoniker": "IsoscelesTriangle.cpp",
+              "ToolTip": "G:\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u044B\u0435 \u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u041D\u0435\u0442\u043E\u043B\u043E\u0433\u0438\u044F\\Netology-Homework-CPP\\Block3\\Lesson5\\Task3\\IsoscelesTriangle.cpp",
+              "RelativeToolTip": "IsoscelesTriangle.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-28T16:35:49.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Chutyrehangle.cpp",
+              "DocumentMoniker": "G:\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u044B\u0435 \u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u041D\u0435\u0442\u043E\u043B\u043E\u0433\u0438\u044F\\Netology-Homework-CPP\\Block3\\Lesson5\\Task3\\Chutyrehangle.cpp",
+              "RelativeDocumentMoniker": "Chutyrehangle.cpp",
+              "ToolTip": "G:\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u044B\u0435 \u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u041D\u0435\u0442\u043E\u043B\u043E\u0433\u0438\u044F\\Netology-Homework-CPP\\Block3\\Lesson5\\Task3\\Chutyrehangle.cpp",
+              "RelativeToolTip": "Chutyrehangle.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-28T16:00:56.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Triangle.cpp",
+              "DocumentMoniker": "G:\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u044B\u0435 \u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u041D\u0435\u0442\u043E\u043B\u043E\u0433\u0438\u044F\\Netology-Homework-CPP\\Block3\\Lesson5\\Task3\\Triangle.cpp",
+              "RelativeDocumentMoniker": "Triangle.cpp",
+              "ToolTip": "G:\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u044B\u0435 \u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u041D\u0435\u0442\u043E\u043B\u043E\u0433\u0438\u044F\\Netology-Homework-CPP\\Block3\\Lesson5\\Task3\\Triangle.cpp",
+              "RelativeToolTip": "Triangle.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-28T15:56:23.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EquilateralTriangle.h",
+              "DocumentMoniker": "G:\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u044B\u0435 \u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u041D\u0435\u0442\u043E\u043B\u043E\u0433\u0438\u044F\\Netology-Homework-CPP\\Block3\\Lesson5\\Task3\\EquilateralTriangle.h",
+              "RelativeDocumentMoniker": "EquilateralTriangle.h",
+              "ToolTip": "G:\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u044B\u0435 \u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u041D\u0435\u0442\u043E\u043B\u043E\u0433\u0438\u044F\\Netology-Homework-CPP\\Block3\\Lesson5\\Task3\\EquilateralTriangle.h",
+              "RelativeToolTip": "EquilateralTriangle.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-28T16:05:32.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EquilateralTriangle.cpp",
+              "DocumentMoniker": "G:\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u044B\u0435 \u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u041D\u0435\u0442\u043E\u043B\u043E\u0433\u0438\u044F\\Netology-Homework-CPP\\Block3\\Lesson5\\Task3\\EquilateralTriangle.cpp",
+              "RelativeDocumentMoniker": "EquilateralTriangle.cpp",
+              "ToolTip": "G:\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u044B\u0435 \u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u041D\u0435\u0442\u043E\u043B\u043E\u0433\u0438\u044F\\Netology-Homework-CPP\\Block3\\Lesson5\\Task3\\EquilateralTriangle.cpp",
+              "RelativeToolTip": "EquilateralTriangle.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-28T16:05:23.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IsoscelesTriangle.h",
+              "DocumentMoniker": "G:\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u044B\u0435 \u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u041D\u0435\u0442\u043E\u043B\u043E\u0433\u0438\u044F\\Netology-Homework-CPP\\Block3\\Lesson5\\Task3\\IsoscelesTriangle.h",
+              "RelativeDocumentMoniker": "IsoscelesTriangle.h",
+              "ToolTip": "G:\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u044B\u0435 \u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u041D\u0435\u0442\u043E\u043B\u043E\u0433\u0438\u044F\\Netology-Homework-CPP\\Block3\\Lesson5\\Task3\\IsoscelesTriangle.h",
+              "RelativeToolTip": "IsoscelesTriangle.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-28T16:36:03.631Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
