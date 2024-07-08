@@ -1,0 +1,7 @@
+# ninja log v5
+19	1397	7421606351184608	CMakeFiles/hello_cmake.dir/source.cpp.obj	99f04a0381174e86
+1398	1765	7421606353824648	hello_cmake.exe	de4b75d719cdb9bb
+6	1851	7421615573254631	CMakeFiles/hello_cmake.dir/source.cpp.obj	99f04a0381174e86
+1852	2191	7421615575804612	hello_cmake.exe	de4b75d719cdb9bb
+21	1426	7421616130294652	CMakeFiles/hello_cmake.dir/source.cpp.obj	99f04a0381174e86
+1426	1805	7421616133134613	hello_cmake.exe	de4b75d719cdb9bb
