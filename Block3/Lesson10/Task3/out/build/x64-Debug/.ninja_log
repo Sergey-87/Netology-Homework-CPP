@@ -1,0 +1,12 @@
+# ninja log v5
+20	358	7422564354067131	build.ninja	6ed1a5ec7dbc8a52
+34	1619	7422529730697173	CMakeFiles/MathPowerExe.dir/MathPowerClient.cpp.obj	4bf81870a53cfd39
+846	1331	7422529722951256	MathPowerDynamicLib.dll	7b6f9e7d0806f29b
+26	845	7422529722951256	CMakeFiles/MathPowerDynamicLib.dir/DynamicMathPower.cpp.obj	308496d6481dad83
+846	1331	7422529722951256	MathPowerDynamicLib.lib	7b6f9e7d0806f29b
+1619	1919	7422529732867136	MathPowerExe.exe	599e18d758718b96
+23	1142	7422564959543459	CMakeFiles/MathPowerDynamicLib.dir/DynamicMathPower.cpp.obj	308496d6481dad83
+1142	1678	7422564959543459	MathPowerDynamicLib.dll	7b6f9e7d0806f29b
+1142	1678	7422564959543459	MathPowerDynamicLib.lib	7b6f9e7d0806f29b
+29	1926	7422564967363439	CMakeFiles/MathPowerExe.dir/MathPowerClient.cpp.obj	4bf81870a53cfd39
+1927	2197	7422564969353930	MathPowerExe.exe	599e18d758718b96

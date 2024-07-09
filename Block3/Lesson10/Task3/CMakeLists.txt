@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.22.0)
+project(MathPower)
+set(CMAKE_WINDOWS_EXPORT_ALL_SYMBOLS ON)
+add_library(MathPowerDynamicLib SHARED DynamicMathPower.h DynamicMathPower.cpp)
+add_executable(MathPowerExe MathPowerClient.cpp)
+target_link_libraries(MathPowerExe MathPowerDynamicLib)

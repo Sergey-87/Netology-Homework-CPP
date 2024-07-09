@@ -1,0 +1,4 @@
+G:/Системные документы/Нетология/3 Базовое программирование на C++/10 Сборка и подключение библиотек/CMakeDynamic/out/build/x64-Debug/CMakeFiles/MathPowerDynamicLib.dir
+G:/Системные документы/Нетология/3 Базовое программирование на C++/10 Сборка и подключение библиотек/CMakeDynamic/out/build/x64-Debug/CMakeFiles/MathPowerExe.dir
+G:/Системные документы/Нетология/3 Базовое программирование на C++/10 Сборка и подключение библиотек/CMakeDynamic/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+G:/Системные документы/Нетология/3 Базовое программирование на C++/10 Сборка и подключение библиотек/CMakeDynamic/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
