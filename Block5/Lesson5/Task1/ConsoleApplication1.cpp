@@ -30,11 +30,12 @@ int main() {
     std::cout << "[IN]: " << num;
     std::cout << std::endl;
     std::cout << "[OUT]: " << square(num) << std::endl;
-    std::vector<int> vec = { -1, 4, 8 };
+    std::vector<int> vec, x = { -1, 4, 8 };
+    vec = x;
     std::cout << "[IN]: ";
     print_vector(vec);
-    square(vec);
+    square(x);
     std::cout << "[OUT]: ";
-    print_vector(vec);
+    print_vector(x);
     return 0;
 }
