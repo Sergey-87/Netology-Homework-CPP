@@ -21,11 +21,11 @@
 
 ### Задание 1
 
-[Частота символов](https://github.com/Sergey-87/Netology-Homework-CPP/tree/main/Block5/Lesson6 STL 1/Task1).
+[Частота символов](https://github.com/Sergey-87/Netology-Homework-CPP/tree/main/Block5/Lesson6_STL_1/Task1).
 
 ### Задание 2
 
-[Удаление дубликатов](https://github.com/Sergey-87/Netology-Homework-CPP/tree/main/Block5/Lesson6 STL 1/Task2).
+[Удаление дубликатов](https://github.com/Sergey-87/Netology-Homework-CPP/tree/main/Block5/Lesson6_STL_1/Task2).
 
 
 ------
