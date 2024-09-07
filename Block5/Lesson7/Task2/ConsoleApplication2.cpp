@@ -6,9 +6,18 @@
 template <class P>
 void print_container(P& container)
 {
+    bool if_one = true;
     for (auto& elem : container)
     {
-        std::cout << elem << " ";
+        if (if_one)
+        {
+            std::cout << elem;
+            if_one = false;
+        }
+        else
+        {
+            std::cout << ", " << elem;
+        }
     }
     std::cout << std::endl;
 }
