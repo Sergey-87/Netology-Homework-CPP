@@ -4,19 +4,19 @@
 #include <list>
 
 template <class P>
-void print_container(P& container)
+void print_container(const P& container)
 {
     bool if_one = true;
-    for (auto& elem : container)
+    for (auto elem = container.cbegin(); elem != container.cend(); ++elem)
     {
         if (if_one)
         {
-            std::cout << elem;
+            std::cout << *elem ;
             if_one = false;
         }
         else
         {
-            std::cout << ", " << elem;
+            std::cout << ", " << *elem;
         }
     }
     std::cout << std::endl;

@@ -1,33 +1,29 @@
 ﻿#include <iostream>
 #include <vector>
-#include <forward_list>
 #include <algorithm>
 
-template <class V>
-void print_vector(std::vector<V> &vec) {
-    for (int elem : vec) {
-        std::cout << elem << " ";
-    }
-    std::cout << std::endl;
-}
-template <class V>
-void unique_vector(std::vector<V> &vec) {
-    auto it = std::unique(vec.begin(), vec.end());
-    vec.erase(it, vec.end());
+template<typename T>
+void unique_vector(std::vector<T>& vec) {
+	std::sort(vec.begin(), vec.end());
+	auto it = std::unique(vec.begin(), vec.end());
+	vec.erase(it, vec.end());
 }
 
-
-int main()
+template<typename V>
+std::ostream& operator<<(std::ostream& out, const std::vector<V>& vec)
 {
-    std::vector<int> vec, x = { 1, 1, 2, 5, 6, 1, 2, 4 };
-    vec = x;
-    std::forward_list<int>list = { x.begin(), x.end() };
-    std::cout << "[IN]: ";
-    print_vector(vec);
-    list.sort();
-    x = { list.begin(), list.end() };
-    unique_vector(x);
-    std::cout << "[OUT]: ";
-    print_vector(x);
-    return 0;
+	for (const auto& value : vec) out << value << " ";
+	return out;
+}
+
+int main() 
+{
+	setlocale(LC_ALL, "Russian");
+	std::vector<int> vec{ 1, 1, 2, 5, 6, 1, 2, 4 };
+	std::cout << "[IN]: " << vec << std::endl;
+
+	unique_vector(vec);
+
+	std::cout << "[OUT]: " << vec << std::endl;
+	return 0;
 }
