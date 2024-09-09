@@ -21,11 +21,11 @@
 
 ### Задание 1
 
-[Уникальный вектор](https://github.com/Sergey-87/Netology-Homework-CPP/tree/main/Block5/Lesson7/Task1).
+[Уникальный вектор](https://github.com/Sergey-87/Netology-Homework-CPP/tree/main/Block5_Advanced_C++_programming/Lesson7_STL_2/Task1).
 
 ### Задание 2
 
-[Печать контейнера](https://github.com/Sergey-87/Netology-Homework-CPP/tree/main/Block5/Lesson7/Task2).
+[Печать контейнера](https://github.com/Sergey-87/Netology-Homework-CPP/tree/main/Block5_Advanced_C++_programming/Lesson7_STL_2/Task2).
 
 ------
 

@@ -21,11 +21,11 @@
 
 ### Задание 1
 
-[Умный массив](https://github.com/Sergey-87/Netology-Homework-CPP/tree/main/Block5/Lesson3_The_life_cycle_of_the_object_RAII/Task1).
+[Умный массив](https://github.com/Sergey-87/Netology-Homework-CPP/tree/main/Block5_Advanced_C++_programming/Lesson3_The_life_cycle_of_the_object_RAII/Task1).
 
 ### Задание 2
 
-[Копирование умных массивов](https://github.com/Sergey-87/Netology-Homework-CPP/tree/main/Block5/Lesson3_The_life_cycle_of_the_object_RAII/Task2).
+[Копирование умных массивов](https://github.com/Sergey-87/Netology-Homework-CPP/tree/main/Block5_Advanced_C++_programming/Lesson3_The_life_cycle_of_the_object_RAII/Task2).
 
 ------
 

@@ -31,11 +31,11 @@
 
 ### Задание 1
 
-[Проверка базовых функций двусвзяного списка](https://github.com/Sergey-87/Netology-Homework-CPP/tree/main/Block5/Lesson4_testing/Task1).
+[Проверка базовых функций двусвзяного списка](https://github.com/Sergey-87/Netology-Homework-CPP/tree/main/Block5_Advanced_C++_programming/Lesson4_testing/Task1).
 
 ### Задание 2
 
-[Проверка функций добавления и получения элементов из двусвязного списка](https://github.com/Sergey-87/Netology-Homework-CPP/tree/main/Block5/Lesson4_testing/Task2).
+[Проверка функций добавления и получения элементов из двусвязного списка](https://github.com/Sergey-87/Netology-Homework-CPP/tree/main/Block5_Advanced_C++_programming/Lesson4_testing/Task2).
 
 ------
 

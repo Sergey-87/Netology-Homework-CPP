@@ -22,15 +22,15 @@
 
 ### Задание 1
 
-[Возведение в квадрат](https://github.com/Sergey-87/Netology-Homework-CPP/tree/main/Block5/Lesson5_templation_and_functors/Task1).
+[Возведение в квадрат](https://github.com/Sergey-87/Netology-Homework-CPP/tree/main/Block5_Advanced_C++_programming/Lesson5_templation_and_functors/Task1).
 
 ### Задание 2
 
-[Таблица](https://github.com/Sergey-87/Netology-Homework-CPP/tree/main/Block5/Lesson5_templation_and_functors/Task2).
+[Таблица](https://github.com/Sergey-87/Netology-Homework-CPP/tree/main/Block5_Advanced_C++_programming/Lesson5_templation_and_functors/Task2).
 
 ### Задание 3
 
-[Счётчик чисел](https://github.com/Sergey-87/Netology-Homework-CPP/tree/main/Block5/Lesson5_templation_and_functors/Task3).
+[Счётчик чисел](https://github.com/Sergey-87/Netology-Homework-CPP/tree/main/Block5_Advanced_C++_programming/Lesson5_templation_and_functors/Task3).
 
 ------
 
