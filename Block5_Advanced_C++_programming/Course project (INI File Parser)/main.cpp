@@ -5,7 +5,7 @@ int main(int argc, char** argv) {
 
     try
     {
-        ini_parser parser("test.ini");
+        ini_parser parser("data.ini");
         std::cout << std::setprecision(5) << std::fixed << std::endl;
         std::cout << parser.get_value<int>("Section1", "var1") << std::endl << std::endl;
         std::cout << parser.get_value<std::string>("Section1", "var2") << std::endl << std::endl;
