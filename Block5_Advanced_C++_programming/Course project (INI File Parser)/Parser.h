@@ -1,4 +1,6 @@
-﻿#include <iostream>
+#pragma once
+
+#include <iostream>
 #include <fstream>
 #include <map>
 #include <string>
@@ -52,55 +54,18 @@ public:
         {
             std::cout << "Warning. Type of this value double or float converted to ini !!!" << std::endl;
         }
-
-        try
-        {
-            tmpIniDataInt_ = std::stoi(tmpIniDataString_);
-        }
-        catch (const std::out_of_range& ex)
-        {
-            throw ex;
-        }
-        catch (const std::invalid_argument& ex)
-        {
-            throw ex;
-        }
         return tmpIniDataInt_;
     }
 
     template <>
     double get_value(const std::string currentSection, const std::string key)
     {
-        try
-        {
-            tmpIniDataDouble_ = std::stod(getStringValue(currentSection, key, lineNumber_));
-        }
-        catch (const std::out_of_range& ex)
-        {
-            throw ex;
-        }
-        catch (const std::invalid_argument& ex)
-        {
-            throw ex;
-        }
         return tmpIniDataDouble_;
     }
 
     template <>
     float get_value(const std::string currentSection, const std::string key)
     {
-        try
-        {
-            tmpIniDataFloat_ = std::stof(getStringValue(currentSection, key, lineNumber_));
-        }
-        catch (const std::out_of_range& ex)
-        {
-            throw ex;
-        }
-        catch (const std::invalid_argument& ex)
-        {
-            throw ex;
-        }
         return tmpIniDataFloat_;
     }
 };
