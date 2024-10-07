@@ -1,38 +1,38 @@
-create table if not exists Executor (
-	id serial primary key,
-	Nickname text not null
+CREATE TABLE IF NOT EXISTS Executor (
+	id serial PRIMARY KEY,
+	Nickname text NOT NULL
 );
-create table if not exists The_genre_of_the_performer (
-	id serial primary key,
-	executor_id integer not null references Executor(id),
-	genre_id integer not null references Genre(id)
+CREATE TABLE IF NOT EXISTS Genre (
+	id serial PRIMARY KEY,
+	The_name_of_the_genre text NOT NULL
 );
-create table if not exists Genre (
-	id serial primary key,
-	The_name_of_the_genre text not null
+CREATE TABLE IF NOT EXISTS The_genre_of_the_performer (
+	id serial PRIMARY KEY,
+	executor_id integer NOT NULL REFERENCES Executor(id),
+	genre_id integer NOT NULL REFERENCES Genre(id)
 );
-create table if not exists Album (
-	id serial primary key,
-	Album_Title text not null
+CREATE TABLE IF NOT EXISTS Album (
+	id serial PRIMARY KEY,
+	Album_Title text NOT NULL
 );
-create table if not exists Collection (
-	id serial primary key,
-	Title text not null,
-	 Year_of_release integer not null
+CREATE TABLE IF NOT EXISTS Collection (
+	id serial PRIMARY KEY,
+	Title text NOT NULL,
+	 Year_of_release integer NOT NULL
 );
-create table if not exists artists_album (
-	id serial primary key,
-	executor_id integer not null references Executor(id),
-	album_id integer not null references Album(id)
+CREATE TABLE IF NOT EXISTS artists_album (
+	id serial PRIMARY KEY,
+	executor_id integer NOT NULL REFERENCES Executor(id),
+	album_id integer NOT NULL REFERENCES Album(id)
 );
-create table if not exists Track (
-	id serial primary key,
-	album_id integer not null references Album(id),
-	Title text not null,
-	Duration integer not null
+CREATE TABLE IF NOT EXISTS Track (
+	id serial PRIMARY KEY,
+	album_id integer NOT NULL REFERENCES Album(id),
+	Title text NOT NULL,
+	Duration integer NOT NULL
 );
-create table if not exists Collection_of_compositions (
-	id serial primary key,
-	collection_id integer not null references Collection(id),
-	track_id integer not null references Track(id)
+CREATE TABLE IF NOT EXISTS Collection_of_compositions (
+	id serial PRIMARY KEY,
+	collection_id integer NOT NULL REFERENCES Collection(id),
+	track_id integer NOT NULL REFERENCES Track(id)
 );
