@@ -13,8 +13,8 @@ int main()
 			"host=localhost "
 			"port=5432 "
 			"dbname=Book "
-			"user=postgres "
-			"password=Sergey87";
+			"user= "
+			"password=";
 
 		std::unique_ptr<Wt::Dbo::backend::Postgres> postgres = std::make_unique<Wt::Dbo::backend::Postgres>(connection);
 		Wt::Dbo::Session session;

@@ -10,8 +10,8 @@ int main(int argc, char** argv)
             "host=localhost "
             "port=5432 "
             "dbname = test "
-            "user = postgres "
-            "password = Sergey87";
+            "user =  "
+            "password = ";
 
         DB db(connection_string);
         db.createTables();
