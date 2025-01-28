@@ -25,11 +25,11 @@ private slots:
 
     void ReceiveTime(QString& text);
 
-signals:
-    void sig_Circle();
-    void sig_Clear();
-    void sig_Start();
-    void sig_Stop();
+// signals:
+//     void sig_Circle();
+//     void sig_Clear();
+    // void sig_Start();
+    // void sig_Stop();
 
 private:
     Ui::MainWindow *ui;

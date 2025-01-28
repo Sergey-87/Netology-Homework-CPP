@@ -10,7 +10,7 @@ MainWindow::MainWindow(QWidget *parent)
     watch = new Stopwatch(this);
 
     ui->label->setAlignment(Qt::AlignCenter);
-    ui->label->setText("0:00");
+    ui->label->setText("00:00.0");
     ui->pushButton_2->setText("Сбросить");
     ui->pushButton_3->setText("Круг");
     ui->pushButton->setText("Старт");
@@ -18,10 +18,10 @@ MainWindow::MainWindow(QWidget *parent)
     ui->pushButton->setCheckable(true);
 
     connect(watch, &Stopwatch::sig_UpdateTime, this, &MainWindow::ReceiveTime);
-    connect(this, &MainWindow::sig_Circle, watch, &Stopwatch::ReceiveCircle);
-    connect(this, &MainWindow::sig_Clear, watch, &Stopwatch::ReceiveClear);
-    connect(this, &MainWindow::sig_Start, watch, &Stopwatch::StartTimer);
-    connect(this, &MainWindow::sig_Stop, watch, &Stopwatch::StopTimer);
+    // connect(this, &MainWindow::sig_Circle, watch, &Stopwatch::ReceiveCircle);
+    // connect(this, &MainWindow::sig_Clear, watch, &Stopwatch::ReceiveClear);
+    // connect(this, &MainWindow::sig_Start, watch, &Stopwatch::StartTimer);
+    // connect(this, &MainWindow::sig_Stop, watch, &Stopwatch::StopTimer);
 }
 
 MainWindow::~MainWindow()
@@ -40,18 +40,18 @@ void MainWindow::on_pushButton_toggled(bool checked) {
     if (checked) {
         ui->pushButton->setText("Стоп");
         ui->pushButton_3->setEnabled(true);
-        emit sig_Start();
+        watch->StartTimer();
 
     } else {
         ui->pushButton->setText("Старт");
         ui->pushButton_3->setEnabled(false);
-        emit sig_Stop();
+        watch->StopTimer();
     }
 }
 
 
 void MainWindow::on_pushButton_3_clicked() {
-    emit sig_Circle();
+    watch->ReceiveCircle();
     QString text = watch->GetCircleTime();
     ui->textBrowser->append(text);
 }
@@ -59,6 +59,6 @@ void MainWindow::on_pushButton_3_clicked() {
 
 void MainWindow::on_pushButton_2_clicked() {
     ui->textBrowser->clear();
-    ui->label->setText("00:00");
-    emit sig_Clear();
+    ui->label->setText("00:00.0");
+    watch->ReceiveClear();
 }

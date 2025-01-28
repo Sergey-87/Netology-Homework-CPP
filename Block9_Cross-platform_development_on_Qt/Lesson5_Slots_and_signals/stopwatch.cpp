@@ -4,7 +4,7 @@ Stopwatch::Stopwatch(QObject *parent) : QObject{parent} {
     timer = new QTimer(this);
     time.setHMS(0, 0, 0, 0);
     stop_time.setHMS(0, 0, 0, 0);
-    timer->setInterval(1000);
+    timer->setInterval(100);
     connect(timer, &QTimer::timeout, this, &Stopwatch::UpdateTime);
 }
 
@@ -13,8 +13,8 @@ Stopwatch::~Stopwatch() {
 }
 
 void Stopwatch::UpdateTime() {
-    time = time.addMSecs(1000);
-    current_time = time.toString("mm:ss");
+    time = time.addMSecs(100);
+    current_time = time.toString("mm:ss.z");
     emit sig_UpdateTime(current_time);
 }
 
